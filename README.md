@@ -4,7 +4,7 @@
 
 Detect 5 different hand gestures shown on a live webcam.
 
-![Detector In Action](/images/detector.png)
+![Detector In Action](/images/Detector.png)
 
 - Peace
 - Left
