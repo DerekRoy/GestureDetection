@@ -20,3 +20,6 @@ You will need to pip install several python modules to run this code:
 - `pip install opencv-python`
 - `pip install imutils` 
 
+If there are any issues installing these modules please use `sudo pip install` instead. 
+
+The hand detection aspect of this code was taken from Victor Dibia, here is the [Github Repository](https://github.com/victordibia/handtracking) if you are interested. 
