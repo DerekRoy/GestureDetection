@@ -1,7 +1,6 @@
 # GestureDetection
 ![Detector In Action](/images/Detector.png)
-
-[Video demonstration of the detector](https://youtu.be/RCMpGXbhoY8)
+https://youtu.be/RCMpGXbhoY8
 
 Detect 5 different hand gestures shown on a live webcam.
 
