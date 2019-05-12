@@ -1,5 +1,6 @@
 # GestureDetection
 ![Detector In Action](/images/Detector.gif)
+
 https://youtu.be/RCMpGXbhoY8
 
 Detect 5 different hand gestures shown on a live webcam.
