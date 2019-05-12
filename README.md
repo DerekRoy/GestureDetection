@@ -14,9 +14,9 @@ Detect 5 different hand gestures shown on a live webcam.
 ## Required modules
 
 You will need to pip install several python modules to run this code: 
-`pip install numpy`
-`pip install tensorflow`
-`pip install keras`
-`pip install opencv-python`
-`pip install imutils` 
+- `pip install numpy`
+- `pip install tensorflow`
+- `pip install keras`
+- `pip install opencv-python`
+- `pip install imutils` 
 
