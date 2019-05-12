@@ -22,4 +22,8 @@ You will need to pip install several python modules to run this code:
 
 If there are any issues installing these modules please use `sudo pip install` instead. 
 
+## Notes
+
 The hand detection aspect of this code was taken from Victor Dibia, here is the [Github Repository](https://github.com/victordibia/handtracking) if you are interested. 
+
+While the gesture detector works in some regards it is not adequate enough as is. The model I used was trained on 28,000 images of my hands making these gestures. The pictures were taken in different environments, and with different hand angles and positions. If you would like to work more with this project here is the [data](https://drive.google.com/file/d/1Q9KPq5pb_Sp_9FPD0CUbS7wlxTnyTPo5/view?usp=sharing). If you can not access the data feel free to contact me. 
